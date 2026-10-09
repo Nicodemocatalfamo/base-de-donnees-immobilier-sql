@@ -32,7 +32,7 @@ Les requêtes développées permettent notamment de :
 - identifier les appartements ayant les valeurs foncières les plus importantes ;
 - comparer les volumes de ventes entre différentes périodes ;
 - analyser l'évolution des ventes par commune ;
-  - comparer le prix moyen des appartements de 2 et 3 pièces ;
+- comparer le prix moyen des appartements de 2 et 3 pièces ;
 - identifier les communes présentant les valeurs foncières moyennes les plus élevées par département.
 
 ## Techniques SQL utilisées
